@@ -12,7 +12,7 @@ The document is roughly divided into four parts.
 
 The first introductory chapter illustrates the core information used in *baybayin*.
 
-Second, the [basics](https://github.com/nickeman132/comprehemsive-baybayin#basics) chapter will give an overview over commonly used innovations such as the `Ra` character and the `virama`.
+Second, the [basics](https://github.com/nickeman132/comprehensive-baybayin#basics) chapter will give an overview over commonly used innovations such as the `Ra` character and the `virama`.
 
 Third,
 
@@ -20,7 +20,8 @@ Fourth,
 
 ## table of contents
 
-- [comprehensive baybayin](https://github.com/nickeman132/nasin-toki#nasin-toki-ponaa-good-way-to-speak)
+- [comprehensive baybayin](https://github.com/NickEman132/Comprehensive-Baybayin/blob/main/README.md#comprehensive-baybayina-free-and-modern-guide-for-using-baybayin)
+    - [introduction](https://github.com/NickEman132/comprehensive-baybayin#introduction)
     - [how to read](https://github.com/nickeman132/comprehensive-baybayin#how-to-read-the-document)
     - [general principles](https://github.com/nickeman132/comprehensive-baybayin#general-principles)
 
