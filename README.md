@@ -20,7 +20,7 @@ Fourth,
 
 ## table of contents
 
-- [comprehensive baybayin](https://github.com/NickEman132/Comprehensive-Baybayin/blob/main/README.md#comprehensive-baybayina-free-and-modern-guide-for-using-baybayin)
+- [comprehensive baybayin](https://github.com/NickEman132/Comprehensive-Baybayin#comprehensive-baybayina-free-and-modern-guide-for-using-baybayin)
     - [introduction](https://github.com/NickEman132/comprehensive-baybayin#introduction)
     - [how to read](https://github.com/nickeman132/comprehensive-baybayin#how-to-read-the-document)
     - [general principles](https://github.com/nickeman132/comprehensive-baybayin#general-principles)
