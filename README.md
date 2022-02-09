@@ -8,15 +8,17 @@ The documentation will pinpoint specific topics and problems commonly encountere
 💙 [ENK Community](http://bit.ly/ENKFBGroup) 
 
 ## introduction
-The document is roughly divided into four parts.
+The document is roughly divided into five parts.
 
 The first introductory chapter illustrates the core information used in *baybayin*.
 
 Second, the [basics](https://github.com/nickeman132/comprehensive-baybayin#basics) chapter will give an overview over commonly used innovations such as the `Ra` character and the `virama`.
 
-Third,
+Third, problems with representing sounds and using suggested modern innovations.
 
-Fourth,
+Fourth, the utilities and resources for Baybayin such as keyboards, fonts, etc.
+
+Fifth, 
 
 ## table of contents
 
@@ -41,4 +43,5 @@ When using *baybayin*, keep in mind of these general principles.
 ### not an alphabet
 *Baybayin* is not an alphabet, but an abugida or an alphasyllabary. Each character represents a syllable: a consonant and a vowel or `CV`. In writing the word `mama`, you would write it with two `ma` characters.
 
-
+### getting a tattoo
+Do not use *Baybayin* for getting yourself tattooed before learning about it.
