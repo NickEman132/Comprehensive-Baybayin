@@ -52,3 +52,6 @@ Do not use *Baybayin* for getting yourself tattooed before learning about it.
 + affricates
 + `ra` variant
 + citations
++ coda/virama expl (b17)
++ syllable duplication
++ handwriting
