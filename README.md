@@ -45,3 +45,9 @@ When using *baybayin*, keep in mind of these general principles.
 
 ### getting a tattoo
 Do not use *Baybayin* for getting yourself tattooed before learning about it.
+
+*note to author*
++ abbreviations
++ acronyms
++ affricates
++ `ra` variant
