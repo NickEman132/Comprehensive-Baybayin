@@ -51,3 +51,4 @@ Do not use *Baybayin* for getting yourself tattooed before learning about it.
 + acronyms
 + affricates
 + `ra` variant
++ citations
