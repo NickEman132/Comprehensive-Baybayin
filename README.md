@@ -6,6 +6,7 @@ Baybayin is a writing system used by the Tagalogs before the colonial era. Many 
 The documentation will pinpoint specific topics and problems commonly encountered in using *baybayin*.
 
 💛 [Filipino Learning Discussion](https://discord.gg/mtYQvSYU7v)
+
 💙 [ENK Community](http://bit.ly/ENKFBGroup) 
 
 ## introduction
