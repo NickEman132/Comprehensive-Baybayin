@@ -43,7 +43,7 @@ When using *baybayin*, keep in mind of these general principles.
 *Baybayin* as being taught here, is used for Tagalog only. However, nothing or no one should stop you from using it for another language. There are several scripts that are used in major languages of the Philippines; it's recommended you learn its respective script. Among these are Kulitan, Surat Mangyan(Buhid, Hanunó'o), and Palawano(Tagbanwa, Ibalnan).
 
 ### not an alphabet
-*Baybayin* is not an alphabet, but an abugida or an alphasyllabary. Each character represents a syllable: a consonant and a vowel or `CV`. In writing the word `mama`, you would write it with two `ma` characters.
+*Baybayin* is not an alphabet, but an abugida or an alphasyllabary. Each character represents a mora: a consonant and a vowel or `CV`. In writing the word `mama`, you would write it with two `ma` characters.
 
 ### getting a tattoo
 Do not use *Baybayin* for getting yourself tattooed before learning about it.
