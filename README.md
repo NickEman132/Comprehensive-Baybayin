@@ -1,4 +1,4 @@
-# Comprehensive Baybayin―A free and modern guide for using *baybayin*.
+# [WIP] Comprehensive Baybayin―A free and modern guide for using *baybayin*.
 *by NickEman132*
 
 This document aims to provide a comprehensive aid for learning the modern *baybayin*.
@@ -46,7 +46,7 @@ When using *baybayin*, keep in mind of these general principles.
 *Baybayin* is not an alphabet, but an abugida or an alphasyllabary. Each character represents a mora: a consonant and a vowel or `CV`. In writing the word `mama`, you would write it with two `ma` characters.
 
 ### getting a tattoo
-Do not use *Baybayin* for getting yourself tattooed before learning about it.
+Do not use *Baybayin* for getting yourself tattooed before learning about it. Make sure you read this guide and know what you're getting tattooed on your skin.
 
 *note to author*
 + abbreviations
