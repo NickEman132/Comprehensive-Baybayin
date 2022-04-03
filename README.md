@@ -5,7 +5,7 @@ This document aims to provide a comprehensive aid for learning the modern *bayba
 Baybayin is a writing system used by the Tagalogs before the colonial era. Many variants and its sister scripts continued to be documented by the Spaniards, leaving us with knowledge of the past. Various groups and communities from around the world are reviving the use of this script.
 The documentation will pinpoint specific topics and problems commonly encountered in using *baybayin*.
 
-💛 [Filipino Learning Discussion](https://discord.gg/mtYQvSYU7v)
+💛 [Filipino Learning and Discussion](https://discord.gg/mtYQvSYU7v)
 
 💙 [ENK Community](http://bit.ly/ENKFBGroup) 
 
