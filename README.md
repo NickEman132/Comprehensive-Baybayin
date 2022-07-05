@@ -70,8 +70,8 @@ The vowel-based morae end in `-a`, `-E` and `-O` respectively.
 |Alveolar|ᜆ|ᜇ|ᜈ|
 |Bilabial|ᜉ|ᜊ|ᜋ|
 
-|-|Voiceless|Voiced|Nasal|
-|-----------|------------|-----------|------------|
+|-|-----------|Voiceless|Voiced|Nasal|
+|-----------|-----------|------------|-----------|------------|
 |Velar|-----------|ka|ga|ŋa|
 |Alveolar|-----------|ta|da|na|
 |Bilabial|-----------|pa|ba|ma|
