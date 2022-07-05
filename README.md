@@ -73,13 +73,20 @@ The vowel-based morae end in `-a`, `-E` and `-O` respectively.
 |Approximants|ᜌ|ᜎ|ᜏ|
 | |**Alveolar**|**Glottal**| |
 |Fricatives|ᜐ|ᜑ| |
-
+|Vowels|**Open**|**Palatal**|**Labial**||
+|Glottal|ᜀ|ᜁ|ᜂ|
 
 |-|Voiceless|Voiced|Nasal|
 |-----------|------------|-----------|------------|
 |Velar|ka|ga|ŋa|
 |Alveolar|ta|da|na|
 |Bilabial|pa|ba|ma|
+| |**Palatal**|**Alveolar**|**Labial**|
+|Approximants|ya|la|wa|
+| |**Alveolar**|**Glottal**| |
+|Fricatives|sa|ha| |
+|Vowels|**Open**|**Palatal**|**Labial**||
+|Glottal|-a|-E|-O|
 
 
 
