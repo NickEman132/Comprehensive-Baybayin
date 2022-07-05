@@ -38,7 +38,7 @@ Fifth, the utilities and resources for Baybayin such as keyboards, fonts, etc.
   - `<reg>` to represent a phonemic [*regional or foreign consonant*](https://github.com/nickeman132i#foreign-consonants) in Tagalog. 
   - `y` or `w` to represent a [*semi-vowel*](https://github.com/nickeman132i#consonants) in Tagalog. 
   - `ŋ` to represent the Tagalog `ng` sound.
-  - `q` to represent the glottal stop or the Tagalog `-` sound.
+  - `-` to represent the glottal stop or the Tagalog `-` or `'` sound.
 
 ## general principles
 When using *baybayin*, keep in mind of these general principles.
@@ -59,16 +59,23 @@ Do not use *Baybayin* for getting yourself tattooed before learning about it.
 make sure you read this guide and know what you're getting tattooed on your skin.
 
 # common core
-There are 15 common morae and 2 different morae in baybayin.
-In order, they are: `ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ ᜀ` and `ᜁ ᜂ`.
+There are 14 common morae and 2 vowel-based morae in baybayin.
+In order, they are: `ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ` and `ᜀ ᜁ ᜂ`.
 The common morae all end in the vowel `a` by default, or is `Ca`.
-The two other morae are `qE` and `qO`.
+The vowel-based morae end in `-a`, `-E` and `-O` respectively.
 
-|Plosives|Voiceless|Voiced|Nasal|
+|-|Voiceless|Voiced|Nasal|
 |-----------|------------|-----------|------------|
 |Velar|ᜃ|ᜄ|ᜅ|
 |Alveolar|ᜆ|ᜇ|ᜈ|
 |Bilabial|ᜉ|ᜊ|ᜋ|
+
+|-|Voiceless|Voiced|Nasal|
+|-----------|------------|-----------|------------|
+|Velar|-----------|ka|ga|ŋa|
+|Alveolar|-----------|ta|da|na|
+|Bilabial|-----------|pa|ba|ma|
+
 
 
 
