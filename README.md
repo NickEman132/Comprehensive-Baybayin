@@ -59,7 +59,7 @@ Do not use *Baybayin* for getting yourself tattooed before learning about it.
 make sure you read this guide and know what you're getting tattooed on your skin.
 
 # common core
-There are 14 common morae and 2 vowel-based morae in baybayin.
+There are 14 common morae and 3 vowel-based morae in baybayin.
 In order, they are: `ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ` and `ᜀ ᜁ ᜂ`.
 The common morae all end in the vowel `a` by default, or is `Ca`.
 The vowel-based morae end in `-a`, `-E` and `-O` respectively.
@@ -69,12 +69,19 @@ The vowel-based morae end in `-a`, `-E` and `-O` respectively.
 |Velar|ᜃ|ᜄ|ᜅ|
 |Alveolar|ᜆ|ᜇ|ᜈ|
 |Bilabial|ᜉ|ᜊ|ᜋ|
+|-|Palatal|Alveolar|Labial|
+|-----------|-----------|-----------|-----------|
+|Approximants|ᜌ|ᜎ|ᜏ|
+|-|Alveolar|Glottal|-|
+|-----------|-----------|-----------|-----------|
+|Fricatives|ᜐ|ᜑ|-|
 
-|-|-----------|Voiceless|Voiced|Nasal|
-|-----------|-----------|------------|-----------|------------|
-|Velar|-----------|ka|ga|ŋa|
-|Alveolar|-----------|ta|da|na|
-|Bilabial|-----------|pa|ba|ma|
+
+|-|Voiceless|Voiced|Nasal|
+|-----------|------------|-----------|------------|
+|Velar|ka|ga|ŋa|
+|Alveolar|ta|da|na|
+|Bilabial|pa|ba|ma|
 
 
 
