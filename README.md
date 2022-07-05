@@ -32,26 +32,38 @@ Fifth, the utilities and resources for Baybayin such as keyboards, fonts, etc.
 ## how to read the document
 - Throughout this document, I will use
   - `C` to represent a [*non-affricate consonant*](https://github.com/nickeman132i#consonants) in Tagalog. 
-  - `V` to represent a [*monophthong vowel*](https://github.com/nickeman132i#vowels) in Tagalog. 
+  - `V` to represent a [*monophthong vowel*](https://github.com/nickeman132i#vowels) in Tagalog.
+  - `E` to represent a vague i-ay sound
+  - `O` to represent a vague u-aw sound
   - `<reg>` to represent a phonemic [*regional or foreign consonant*](https://github.com/nickeman132i#foreign-consonants) in Tagalog. 
   - `y` or `w` to represent a [*semi-vowel*](https://github.com/nickeman132i#consonants) in Tagalog. 
-  - `ŋ` to represent the
+  - `ŋ` to represent the Tagalog `ng` sound.
+  - `q` to represent the glottal stop or the Tagalog `-` sound.
 
 ## general principles
 When using *baybayin*, keep in mind of these general principles.
 
 ### language
-*Baybayin* as being taught here, is used for Tagalog only. However, nothing or no one should stop you from using it for another language. There are several scripts that are used in major languages of the Philippines; it's recommended you learn its respective script. Among these are Kulitan, Surat Mangyan(Buhid, Hanunó'o), and Palawano(Tagbanwa, Ibalnan).
+*Baybayin* as being taught here, is used for Tagalog only.
+However, nothing or no one should stop you from using it for another language.
+There are several scripts that are used in major languages of the Philippines; it's recommended you learn its respective script.
+Among these scripts are Kulitan, Surat Mangyan (Buhid, Hanunó'o), and Palawano (Tagbanwa, Ibalnan).
 
 ### not an alphabet
-*Baybayin* is not an alphabet, but an abugida or an alphasyllabary. Each character represents a mora: a consonant and a vowel or `CV`. In writing the word `mama`, you would write it with two `ma` characters.
+*Baybayin* is not an alphabet, but an abugida or an alphasyllabary.
+Each character represents a mora: a consonant and a vowel or `CV`.
+In writing the word `mama`, you would write it with two `ma` characters.
 
 ### getting a tattoo
-Do not use *Baybayin* for getting yourself tattooed before learning about it. Make sure you read this guide and know what you're getting tattooed on your skin.
+Do not use *Baybayin* for getting yourself tattooed before learning about it.
+make sure you read this guide and know what you're getting tattooed on your skin.
 
 # common core
-There are 17 common morae in baybayin.
-In order, they are: `ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ`.
+There are 15 common morae and 2 different morae in baybayin.
+In order, they are: `ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ ᜀ` and `ᜁ ᜂ`.
+The common morae all end in the vowel `a` default or is `Ca`
+The two other morae are `qE` and `qO`
+
 
 *note to author*
 + abbreviations
