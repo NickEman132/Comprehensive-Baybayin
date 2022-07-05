@@ -64,17 +64,15 @@ In order, they are: `ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ` an
 The common morae all end in the vowel `a` by default, or is `Ca`.
 The vowel-based morae end in `-a`, `-E` and `-O` respectively.
 
-|-|Voiceless|Voiced|Nasal|
+| |Voiceless|Voiced|Nasal|
 |-----------|------------|-----------|------------|
 |Velar|ᜃ|ᜄ|ᜅ|
 |Alveolar|ᜆ|ᜇ|ᜈ|
 |Bilabial|ᜉ|ᜊ|ᜋ|
-|-|Palatal|Alveolar|Labial|
-|-----------|-----------|-----------|-----------|
+| |**Palatal**|**Alveolar**|**Labial**|
 |Approximants|ᜌ|ᜎ|ᜏ|
-|-|Alveolar|Glottal|-|
-|-----------|-----------|-----------|-----------|
-|Fricatives|ᜐ|ᜑ|-|
+| |**Alveolar**|**Glottal**| |
+|Fricatives|ᜐ|ᜑ| |
 
 
 |-|Voiceless|Voiced|Nasal|
