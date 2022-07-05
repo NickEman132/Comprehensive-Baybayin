@@ -61,8 +61,8 @@ make sure you read this guide and know what you're getting tattooed on your skin
 # common core
 There are 15 common morae and 2 different morae in baybayin.
 In order, they are: `ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ ᜀ` and `ᜁ ᜂ`.
-The common morae all end in the vowel `a` default or is `Ca`
-The two other morae are `qE` and `qO`
+The common morae all end in the vowel `a` by default, or is `Ca`.
+The two other morae are `qE` and `qO`.
 
 
 *note to author*
