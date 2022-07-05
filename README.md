@@ -12,15 +12,15 @@ The documentation will pinpoint specific topics and problems commonly encountere
 ## introduction
 The document is roughly divided into five parts.
 
-The first introductory chapter illustrates the core information used in *baybayin*.
+The first common core chapter illustrates the core information used in *baybayin*.
 
 Second, the [basics](https://github.com/nickeman132/comprehensive-baybayin#basics) chapter will give an overview over commonly used innovations such as the `Ra` character and the `virama`.
 
 Third, problems with representing sounds and using suggested modern innovations.
 
-Fourth, the utilities and resources for Baybayin such as keyboards, fonts, etc.
+Fourth, baybayin used in different ways.
 
-Fifth, 
+Fifth, the utilities and resources for Baybayin such as keyboards, fonts, etc.
 
 ## table of contents
 
@@ -35,6 +35,7 @@ Fifth,
   - `V` to represent a [*monophthong vowel*](https://github.com/nickeman132i#vowels) in Tagalog. 
   - `<reg>` to represent a phonemic [*regional or foreign consonant*](https://github.com/nickeman132i#foreign-consonants) in Tagalog. 
   - `y` or `w` to represent a [*semi-vowel*](https://github.com/nickeman132i#consonants) in Tagalog. 
+  - `ŋ` to represent the
 
 ## general principles
 When using *baybayin*, keep in mind of these general principles.
@@ -47,6 +48,10 @@ When using *baybayin*, keep in mind of these general principles.
 
 ### getting a tattoo
 Do not use *Baybayin* for getting yourself tattooed before learning about it. Make sure you read this guide and know what you're getting tattooed on your skin.
+
+# common core
+There are 17 common morae in baybayin.
+In order, they are: `ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ`.
 
 *note to author*
 + abbreviations
